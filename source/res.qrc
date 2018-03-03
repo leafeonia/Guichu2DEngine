@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/ball1.png</file>
+        <file>Resources/ball2.png</file>
+        <file>Resources/ball3.png</file>
+        <file>Resources/ball4.png</file>
+        <file>Resources/ball5.png</file>
+        <file>Resources/金馆长.wav</file>
+        <file>Resources/ball6.png</file>
+        <file>Resources/葛炮0.wav</file>
+        <file>Resources/葛炮1.wav</file>
+        <file>Resources/葛炮2.wav</file>
+        <file>Resources/葛炮3.wav</file>
+        <file>Resources/金坷垃0.wav</file>
+        <file>Resources/金坷垃1.wav</file>
+        <file>Resources/香蕉登场.jpg</file>
+        <file>Resources/葛炮0.mp3</file>
+        <file>Resources/葛炮1.mp3</file>
+        <file>Resources/葛炮2.mp3</file>
+        <file>Resources/葛炮3.mp3</file>
+        <file>Resources/金坷垃0.mp3</file>
+        <file>Resources/金坷垃1.mp3</file>
+        <file>Resources/FAQ.wav</file>
+    </qresource>
+</RCC>
